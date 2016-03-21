@@ -1,7 +1,7 @@
 # Project Name
 NOVATERRA ONG
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Novaterra/TarjetasNovaterraCatering/master/dise%C3%B1o.png" width="350"/>
+  <img src="https://raw.githubusercontent.com/Novaterra/MarcalibrosNovaterraCatering/master/dise%C3%B1o.png" width="350"/>
 </p>
 
 DISEÑO GRAFICO: Tarjetas de visita de Novaterra Catering Julio 2015 y anteriores

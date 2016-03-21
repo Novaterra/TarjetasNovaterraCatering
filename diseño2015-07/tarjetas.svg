@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="tarjetas1.svg">
+   sodipodi:docname="tarjetas.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -23,11 +23,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.69264846"
-     inkscape:cx="65.529661"
-     inkscape:cy="337.73974"
+     inkscape:zoom="0.34632423"
+     inkscape:cx="-711.32069"
+     inkscape:cy="503.21216"
      inkscape:document-units="px"
-     inkscape:current-layer="g7842"
+     inkscape:current-layer="g4915"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1014"
@@ -97,7 +97,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -179,16 +179,22 @@
     <image
        sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Catering/tarjetas/diseño2015-07/papelcraft.jpg"
        xlink:href="papelcraft.jpg"
-       y="738.67181"
-       x="1737.158"
-       id="image4973"
-       height="490"
-       width="736"
+       inkscape:export-ydpi="60"
+       inkscape:export-xdpi="60"
+       inkscape:export-filename="/home/creawww/DATOS/020_NOVATERRA/Catering/tarjetas/diseño.png"
+       transform="translate(-1647.3077,-705.36246)"
        clip-path="url(#clipPath4785)"
-       transform="translate(-1747.3077,-705.36246)" />
+       width="736"
+       height="490"
+       id="image4973"
+       x="1737.158"
+       y="738.67181" />
     <g
-       transform="matrix(1.0894613,0.01774707,-0.01774707,1.0894613,14.237149,-717.58578)"
-       id="g7365">
+       transform="matrix(1.0894613,0.01774707,-0.01774707,1.0894613,114.23715,-717.58578)"
+       id="g7365"
+       inkscape:export-filename="/home/creawww/DATOS/020_NOVATERRA/Catering/tarjetas/diseño.png"
+       inkscape:export-xdpi="60"
+       inkscape:export-ydpi="60">
       <path
          inkscape:connector-curvature="0"
          id="path22"
@@ -374,90 +380,114 @@
        sodipodi:linespacing="125%"
        id="text7844"
        y="205.05174"
-       x="114.55718"
+       x="221.83737"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.57208252px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3c7213;fill-opacity:1;stroke:none"
        xml:space="preserve"
-       transform="scale(0.93213863,1.0728018)"><tspan
+       transform="scale(0.93213863,1.0728018)"
+       inkscape:export-filename="/home/creawww/DATOS/020_NOVATERRA/Catering/tarjetas/diseño.png"
+       inkscape:export-xdpi="60"
+       inkscape:export-ydpi="60"><tspan
          sodipodi:role="line"
          id="tspan5158"
-         x="114.55718"
+         x="221.83737"
          y="205.05174">Tu catering sostenible</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7864"
        y="325.81775"
-       x="132.77638"
+       x="230.11388"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.83154678px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3c7213;fill-opacity:1;stroke:none"
        xml:space="preserve"
-       transform="scale(1.0273536,0.9733747)"><tspan
+       transform="scale(1.0273536,0.9733747)"
+       inkscape:export-filename="/home/creawww/DATOS/020_NOVATERRA/Catering/tarjetas/diseño.png"
+       inkscape:export-xdpi="60"
+       inkscape:export-ydpi="60"><tspan
          id="tspan7866"
          y="325.81775"
-         x="132.77638"
+         x="230.11388"
          sodipodi:role="line">963212412</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7868"
        y="347.34384"
-       x="108.79301"
+       x="206.99599"
        style="font-style:normal;font-weight:normal;font-size:11.35781956px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"
-       transform="scale(1.0182988,0.98203002)"><tspan
+       transform="scale(1.0182988,0.98203002)"
+       inkscape:export-filename="/home/creawww/DATOS/020_NOVATERRA/Catering/tarjetas/diseño.png"
+       inkscape:export-xdpi="60"
+       inkscape:export-ydpi="60"><tspan
          id="tspan7870"
          y="347.34384"
-         x="108.79301"
+         x="206.99599"
          sodipodi:role="line">www.novaterracatering.com</tspan></text>
     <path
        style="fill:#3c7213;fill-opacity:1"
-       d="m 124.56475,351.292 c -4.75948,0 -8.61768,3.85785 -8.61768,8.61768 0,4.75911 3.8582,8.61769 8.61768,8.61769 4.75947,0 8.61769,-3.85858 8.61769,-8.61769 l 0,-8.25861 c 0,-0.19785 -0.16195,-0.35907 -0.35907,-0.35907 l -8.25862,0 z m -2.55837,3.23163 c 1.35262,0 1.44318,1.36662 1.4475,2.73792 l 3.91611,0 c 0.61975,0 1.07721,0.63204 1.07721,1.58214 0,0.95118 -1.00037,1.15576 -1.52605,1.15576 l -3.51216,0 c -0.018,0.5817 -0.0336,1.05818 -0.0336,1.34651 0,0.60684 0.23429,1.26797 1.72802,1.26797 l 2.09832,0 c 0.52496,0 1.31285,0.39435 1.31285,1.49239 0,1.09803 -1.09875,1.18941 -1.48116,1.18941 -0.3817,0 -2.50048,-0.0449 -3.04088,-0.0449 -0.53969,0 -3.35506,-0.8721 -3.35506,-3.93856 0,-0.54722 6.2e-4,-1.09067 0,-1.63825 -0.002,-0.5088 -0.009,-1.01976 -0.0112,-1.52605 0,-0.14722 -0.01,-0.29076 -0.0112,-0.43762 -0.003,-0.77344 -0.0606,-1.64786 0.19075,-2.39006 0.19139,-0.56518 0.64122,-0.79669 1.20065,-0.79669 z"
+       d="m 224.56475,351.292 c -4.75948,0 -8.61768,3.85785 -8.61768,8.61768 0,4.75911 3.8582,8.61769 8.61768,8.61769 4.75947,0 8.61769,-3.85858 8.61769,-8.61769 l 0,-8.25861 c 0,-0.19785 -0.16195,-0.35907 -0.35907,-0.35907 l -8.25862,0 z m -2.55837,3.23163 c 1.35262,0 1.44318,1.36662 1.4475,2.73792 l 3.91611,0 c 0.61975,0 1.07721,0.63204 1.07721,1.58214 0,0.95118 -1.00037,1.15576 -1.52605,1.15576 l -3.51216,0 c -0.018,0.5817 -0.0336,1.05818 -0.0336,1.34651 0,0.60684 0.23429,1.26797 1.72802,1.26797 l 2.09832,0 c 0.52496,0 1.31285,0.39435 1.31285,1.49239 0,1.09803 -1.09875,1.18941 -1.48116,1.18941 -0.3817,0 -2.50048,-0.0449 -3.04088,-0.0449 -0.53969,0 -3.35506,-0.8721 -3.35506,-3.93856 0,-0.54722 6.2e-4,-1.09067 0,-1.63825 -0.002,-0.5088 -0.009,-1.01976 -0.0112,-1.52605 0,-0.14722 -0.01,-0.29076 -0.0112,-0.43762 -0.003,-0.77344 -0.0606,-1.64786 0.19075,-2.39006 0.19139,-0.56518 0.64122,-0.79669 1.20065,-0.79669 z"
        id="path7-1"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/creawww/DATOS/020_NOVATERRA/Catering/tarjetas/diseño.png"
+       inkscape:export-xdpi="60"
+       inkscape:export-ydpi="60" />
     <path
        style="fill:#3c7213;fill-opacity:1"
-       d="m 258.26873,352.00982 c -4.75075,0 -8.6006,3.85021 -8.6006,8.6006 0,4.74969 3.84985,8.60061 8.6006,8.60061 4.74863,0 8.60061,-3.85092 8.60061,-8.60061 l 0,-8.24224 c 0,-0.19745 -0.16161,-0.35836 -0.35836,-0.35836 l -8.24225,0 z m 0.81751,3.22522 1.65742,0 0,1.8478 -1.20946,0 c -0.19603,0 -0.47035,0.0962 -0.47035,0.51513 l 0,0.86231 1.7134,0 -0.20158,2.15014 -1.59021,0 0,5.37539 -2.15016,0 0,-5.37539 -1.07507,0 0,-2.15014 1.06388,0 0,-0.97429 c 0,-0.87941 0.41838,-2.25095 2.26213,-2.25095 z"
+       d="m 358.26873,352.00982 c -4.75075,0 -8.6006,3.85021 -8.6006,8.6006 0,4.74969 3.84985,8.60061 8.6006,8.60061 4.74863,0 8.60061,-3.85092 8.60061,-8.60061 l 0,-8.24224 c 0,-0.19745 -0.16161,-0.35836 -0.35836,-0.35836 l -8.24225,0 z m 0.81751,3.22522 1.65742,0 0,1.8478 -1.20946,0 c -0.19603,0 -0.47035,0.0962 -0.47035,0.51513 l 0,0.86231 1.7134,0 -0.20158,2.15014 -1.59021,0 0,5.37539 -2.15016,0 0,-5.37539 -1.07507,0 0,-2.15014 1.06388,0 0,-0.97429 c 0,-0.87941 0.41838,-2.25095 2.26213,-2.25095 z"
        id="path7"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/creawww/DATOS/020_NOVATERRA/Catering/tarjetas/diseño.png"
+       inkscape:export-xdpi="60"
+       inkscape:export-ydpi="60" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:9.56564617px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="143.00287"
+       x="249.17787"
        y="342.80966"
        id="text4009"
        sodipodi:linespacing="125%"
-       transform="scale(0.94184103,1.0617503)"><tspan
+       transform="scale(0.94184103,1.0617503)"
+       inkscape:export-filename="/home/creawww/DATOS/020_NOVATERRA/Catering/tarjetas/diseño.png"
+       inkscape:export-xdpi="60"
+       inkscape:export-ydpi="60"><tspan
          sodipodi:role="line"
          id="tspan4011"
-         x="143.00287"
+         x="249.17787"
          y="342.80966">@NovaT_Catering</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.24157333px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="214.48248"
+       x="325.44333"
        y="225.77312"
        id="text3431"
        sodipodi:linespacing="125%"
-       transform="scale(0.90121892,1.1096083)"><tspan
+       transform="scale(0.90121892,1.1096083)"
+       inkscape:export-filename="/home/creawww/DATOS/020_NOVATERRA/Catering/tarjetas/diseño.png"
+       inkscape:export-xdpi="60"
+       inkscape:export-ydpi="60"><tspan
          sodipodi:role="line"
          id="tspan3165"
-         x="214.48248"
+         x="325.44333"
          y="225.77312">Sabroso, saludable y ecológico.</tspan><tspan
          sodipodi:role="line"
          id="tspan3167"
-         x="214.48248"
+         x="325.44333"
          y="239.82509">Nos importa el planeta.</tspan><tspan
          sodipodi:role="line"
          id="tspan3169"
-         x="214.48248"
+         x="325.44333"
          y="253.87704">Nos importan las personas.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.52270985px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       x="120.81453"
+       x="220.81453"
        y="192.97495"
        id="text4490"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/creawww/DATOS/020_NOVATERRA/Catering/tarjetas/diseño.png"
+       inkscape:export-xdpi="60"
+       inkscape:export-ydpi="60"><tspan
          sodipodi:role="line"
          id="tspan4492"
-         x="120.81453"
+         x="220.81453"
          y="192.97495">C/ Alcácer 21 bajo. 46980 Paterna</tspan></text>
     <g
        id="g4915"
@@ -465,20 +495,26 @@
       <image
          sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Catering/tarjetas/diseño2015-07/papelcraft.jpg"
          xlink:href="papelcraft.jpg"
-         y="738.67181"
-         x="1737.158"
-         id="image4778"
-         height="490"
-         width="736"
+         inkscape:export-ydpi="60"
+         inkscape:export-xdpi="60"
+         inkscape:export-filename="/home/creawww/DATOS/020_NOVATERRA/Catering/tarjetas/diseño.png"
+         transform="translate(-1437.2856,-705.36246)"
          clip-path="url(#clipPath4785)"
-         transform="translate(-1437.2856,-705.36246)" />
+         width="736"
+         height="490"
+         id="image4778"
+         x="1737.158"
+         y="738.67181" />
       <text
          sodipodi:linespacing="125%"
          id="text4013"
          y="373.28278"
          x="511.6373"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.95838737px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
+         xml:space="preserve"
+         inkscape:export-filename="/home/creawww/DATOS/020_NOVATERRA/Catering/tarjetas/diseño.png"
+         inkscape:export-xdpi="60"
+         inkscape:export-ydpi="60"><tspan
            y="373.28278"
            x="511.6373"
            id="tspan3631"
@@ -486,7 +522,10 @@
       <g
          id="g5286"
          transform="matrix(0.09348007,0,0,-0.09348007,398.5952,384.01727)"
-         style="fill:#000000">
+         style="fill:#000000"
+         inkscape:export-filename="/home/creawww/DATOS/020_NOVATERRA/Catering/tarjetas/diseño.png"
+         inkscape:export-xdpi="60"
+         inkscape:export-ydpi="60">
         <path
            id="path5224"
            d="m 1164.0095,99.377039 c -5.2189,8.811801 -5.1952,8.028481 -0.4568,15.089861 4.514,6.72685 6.2106,7.80012 6.2106,3.9288 l 0,-2.4 8,0 c 4.9117,0 8,0.31543 8,0.81712 0,0.44942 -2.5392,5.17977 -5.6427,10.51191 -3.1034,5.33214 -5.47,10.14453 -5.2591,10.6942 0.4667,1.21628 11.8129,7.57677 13.5159,7.57677 1.8223,0 10.1866,-15.21243 10.1829,-18.5201 0,-3.15586 -2.3104,-7.26207 -5.1105,-9.09681 -1.0945,-0.71711 -1.8109,-1.77045 -1.5921,-2.34075 0.2189,-0.57029 -1.435,-4.14019 -3.6753,-7.93308 -4.8109,-8.145001 -7.0973,-9.743801 -12.8441,-8.981451 -4.7242,0.62669 -6.375,0.014 -6.375,-2.36619 0,-3.6635 -1.5581,-2.71372 -4.9538,3.01972 z"
@@ -505,7 +544,10 @@
       </g>
       <g
          transform="translate(0,-21.493643)"
-         id="g3217">
+         id="g3217"
+         inkscape:export-filename="/home/creawww/DATOS/020_NOVATERRA/Catering/tarjetas/diseño.png"
+         inkscape:export-xdpi="60"
+         inkscape:export-ydpi="60">
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.13375473px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3c7213;fill-opacity:1;stroke:none"
@@ -557,7 +599,10 @@
       </g>
       <g
          transform="translate(0,-32.00963)"
-         id="g3207">
+         id="g3207"
+         inkscape:export-filename="/home/creawww/DATOS/020_NOVATERRA/Catering/tarjetas/diseño.png"
+         inkscape:export-xdpi="60"
+         inkscape:export-ydpi="60">
         <text
            xml:space="preserve"
            style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.13375473px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#3c7213;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
@@ -609,7 +654,10 @@
       </g>
       <g
          transform="translate(0,-42.351074)"
-         id="g3195">
+         id="g3195"
+         inkscape:export-filename="/home/creawww/DATOS/020_NOVATERRA/Catering/tarjetas/diseño.png"
+         inkscape:export-xdpi="60"
+         inkscape:export-ydpi="60">
         <text
            xml:space="preserve"
            style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.13375473px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#3c7213;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
@@ -665,7 +713,10 @@
       </g>
       <g
          transform="translate(0,-43.48686)"
-         id="g3227">
+         id="g3227"
+         inkscape:export-filename="/home/creawww/DATOS/020_NOVATERRA/Catering/tarjetas/diseño.png"
+         inkscape:export-xdpi="60"
+         inkscape:export-ydpi="60">
         <text
            xml:space="preserve"
            style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.13375473px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#3c7213;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
@@ -719,7 +770,10 @@
       </g>
       <g
          transform="translate(0,-43.842912)"
-         id="g3238">
+         id="g3238"
+         inkscape:export-filename="/home/creawww/DATOS/020_NOVATERRA/Catering/tarjetas/diseño.png"
+         inkscape:export-xdpi="60"
+         inkscape:export-ydpi="60">
         <text
            xml:space="preserve"
            style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.13375473px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#3c7213;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
@@ -780,7 +834,10 @@
          y="305.86475"
          id="text4397"
          sodipodi:linespacing="125%"
-         transform="scale(0.92105862,1.0857072)"><tspan
+         transform="scale(0.92105862,1.0857072)"
+         inkscape:export-filename="/home/creawww/DATOS/020_NOVATERRA/Catering/tarjetas/diseño.png"
+         inkscape:export-xdpi="60"
+         inkscape:export-ydpi="60"><tspan
            sodipodi:role="line"
            id="tspan4417"
            x="458.61853"
@@ -792,7 +849,10 @@
          y="316.6485"
          id="text4403"
          sodipodi:linespacing="125%"
-         transform="scale(0.92105862,1.0857072)"><tspan
+         transform="scale(0.92105862,1.0857072)"
+         inkscape:export-filename="/home/creawww/DATOS/020_NOVATERRA/Catering/tarjetas/diseño.png"
+         inkscape:export-xdpi="60"
+         inkscape:export-ydpi="60"><tspan
            sodipodi:role="line"
            id="tspan4425"
            x="458.61853"
@@ -804,11 +864,14 @@
          y="305.86475"
          x="569.36084"
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.5px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#3c7213;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
-         xml:space="preserve"><tspan
+         xml:space="preserve"
+         inkscape:export-filename="/home/creawww/DATOS/020_NOVATERRA/Catering/tarjetas/diseño.png"
+         inkscape:export-xdpi="60"
+         inkscape:export-ydpi="60"><tspan
            sodipodi:role="line"
            id="tspan4421"
            x="569.36084"
-           y="305.86475">Comunicacion</tspan></text>
+           y="305.86475">Comunicación</tspan></text>
       <text
          transform="scale(0.95336337,1.048918)"
          xml:space="preserve"
@@ -816,7 +879,10 @@
          x="442.89435"
          y="339.60797"
          id="text4413"
-         sodipodi:linespacing="125%"><tspan
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="/home/creawww/DATOS/020_NOVATERRA/Catering/tarjetas/diseño.png"
+         inkscape:export-xdpi="60"
+         inkscape:export-ydpi="60"><tspan
            sodipodi:role="line"
            id="tspan4423"
            x="442.89435"
@@ -830,7 +896,7 @@
      transform="translate(-474.0057,-430.45205)">
     <g
        id="g5035"
-       transform="translate(-68,0)">
+       transform="translate(32,0)">
       <g
          transform="matrix(1.0894613,0.01774707,-0.01774707,1.0894613,82.362125,-327.65265)"
          id="g3432">
@@ -1193,7 +1259,7 @@
            y="665.01599"
            x="569.36084"
            id="tspan4551"
-           sodipodi:role="line">Comunicacion</tspan></text>
+           sodipodi:role="line">Comunicación</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text4553"
